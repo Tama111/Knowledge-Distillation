@@ -1,2 +1,2 @@
 # Knowledge-Distillation
-This is an tensorflow implementation of Knowledge Distillation.
+This is an unofficial tensorflow implementation of Knowledge Distillation.
